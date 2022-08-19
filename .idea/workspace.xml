@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b914f3ee-4a70-47fb-b04d-8b4f4c0a81bd" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tests/test-connection.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tomcat-_helpers.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/helm/mychart/templates/_helpers.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tomcat-_pod.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/helm/mychart/templates/_pod.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tomcat-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/helm/mychart/templates/deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tomcat-extra-list.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tomcat-ingress.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/helm/mychart/templates/ingress.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tomcat-jmx-configmap.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tomcat-networkpolicy.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tomcat-podmonitor.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tomcat-prometheusrule.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tomcat-pvc.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/helm/mychart/templates/pvc.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tomcat-secrets.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tomcat-statefulset.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tomcat-svc-headless.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tomcat-svc.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/helm/mychart/templates/svc.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/helm/mychart/templates/tomcat-tls-secrets.yaml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DWRZl0KJXiuOE72uN74b944YFY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/deploy/helm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\helm-ide\workspace6\workspace5\db\deploy\helm" />
+      <recent name="C:\helm-ide\workspace6\workspace5\db\deploy\kubectl" />
+      <recent name="C:\helm-ide\workspace5\db\deploy\kubectl" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DatabaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="db.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="db.db.DatabaseApplication" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=&quot;dev&quot;" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b914f3ee-4a70-47fb-b04d-8b4f4c0a81bd" name="Changes" comment="" />
+      <created>1660812912762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660812912762</updated>
+      <workItem from="1660812914201" duration="2781000" />
+      <workItem from="1660866932865" duration="3585000" />
+      <workItem from="1660876598826" duration="1462000" />
+      <workItem from="1660878676336" duration="3758000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1660815655059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660815655059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>

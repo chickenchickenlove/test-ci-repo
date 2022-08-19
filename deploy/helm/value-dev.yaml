@@ -1,6 +1,6 @@
 image:
   registry: docker.io
-  repository: my-db-build
+  repository: ojt90902/my-db-build
   tag: latest
 
 tomcatAllowRemoteManagement: 1

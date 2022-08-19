@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "database",
+      "type": "db.db.Database",
+      "sourceType": "db.db.Database"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

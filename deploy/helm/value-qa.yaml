@@ -1,0 +1,18 @@
+image:
+  registry: docker.io
+  repository: ojt90902/myapp
+  tag: latest
+
+tomcatAllowRemoteManagement: 1
+
+persistence:
+  enabled: false
+
+service:
+  type: NodePort
+  nodePorts:
+    http: 80
+
+extraEnvVars:
+  - name: JAVA_OPTS
+    value: '-Dspring.profiles.active=qa'
